@@ -4,7 +4,7 @@ Updated 14 October 2026.
 
 Normal Setup installs only pinned Node.js/npm and locked website libraries. All 18 Luna recordings and sentence timings are included in public/audio/lessons. Python and a TTS API are not needed for lesson playback. The developer source retains optional voice-studio tooling, but neither normal client setup nor Vercel deployment installs its Python dependencies or voice model.
 
-The game catalog also includes Time Travel (10 elapsed-time problems, including two that cross midnight) and Tri-Quest (10 formula-selection problems covering right-triangle ratios, oblique-triangle rules, angle sum, and triangle area). Both provide progress feedback, retry behavior, and a final score. Their decorative game-card artwork and controls are original UI; supplied screenshots were used as interaction references only.
+The game catalog also includes Time Travel (10 elapsed-time problems, including two that cross midnight) and Tri-Quest (10 formula-selection problems covering right-triangle ratios, oblique-triangle rules, angle sum, and triangle area). Both provide progress feedback, retry behavior, and a final score. Their catalog cards and instruction panels use original transparent SVG artwork: a simple clock for Time Travel and only a triangle for Tri-Quest. Supplied screenshots were used as interaction references only.
 
 Verified:
 - All 18 WAV files generated: 24 kHz PCM16, approximately 51 MB total.
