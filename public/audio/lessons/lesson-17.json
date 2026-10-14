@@ -1,0 +1,47 @@
+{
+  "id": 17,
+  "title": "Volume & capacity",
+  "sentences": [
+    "Volume & capacity",
+    "Volume is the space occupied by an object; capacity is the amount a container can hold.",
+    "To calculate usable capacity, use the container's internal dimensions.",
+    "A fill fraction describes how much of that capacity is in use.",
+    "One cubic meter equals 1,000 liters, and one cubic centimeter equals one milliliter.",
+    "Let’s work it out",
+    "A tank has internal dimensions 2 m × 1 m × 1 m and is 75% full.",
+    "How many more liters fit?",
+    "2 × 1 × 1 = 2 m³ = 2,000 L.",
+    "2,000 × 0.75 = 1,500 L.",
+    "2,000 − 1,500 = 500 L can be added."
+  ],
+  "spoken": [
+    "Volume & capacity.",
+    "Volume is the space occupied by an object; capacity is the amount a container can hold.",
+    "To calculate usable capacity, use the container's internal dimensions.",
+    "A fill fraction describes how much of that capacity is in use.",
+    "One cubic meter equals 1,000 liters, and one cubic centimeter equals one milliliter.",
+    "Let’s work it out.",
+    "A tank has internal dimensions 2 meters times 1 meter times 1 meter and is 75% full.",
+    "How many more liters fit?",
+    "2 times 1 times 1 equals 2 cubic meters equals 2,000 liters.",
+    "2,000 times 0.75 equals 1,500 liters.",
+    "2,000 minus 1,500 equals 500 liters can be added."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-17.wav",
+  "durations": [
+    1.4916666666666667,
+    6.491666666666666,
+    5.741666666666666,
+    4.541666666666667,
+    7.766666666666667,
+    2.0416666666666665,
+    8.066666666666666,
+    2.3916666666666666,
+    5.916666666666667,
+    5.491666666666666,
+    5.491666666666666
+  ],
+  "pause": 0.32,
+  "sourceHash": "d61728a0f76d089583c00cee6c8ef1da4e1bf3c7aec667798b710aa5885cad4a"
+}

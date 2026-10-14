@@ -1,0 +1,68 @@
+GEO MEASURE - CLIENT QUICK START
+
+For Windows 10/11, 64-bit Intel or AMD computers. Keep this folder on
+the computer where it will be used. Internet is required during setup.
+
+FIRST-TIME INSTALL
+1. Extract Geo-Measure-Client.zip to a local folder such as
+   C:\Geo-Measure. Open the extracted Geo-Measure folder; do not run
+   files from inside the ZIP.
+
+2. Double-click 1-SETUP.cmd once. Leave the window open until it says
+   SETUP COMPLETE. Setup installs the website runtime and locked
+   website dependencies, builds the app, and runs its checks.
+   All 18 Luna recordings are included. Lesson playback does not need
+   Python, KittenTTS, a voice model download, or a TTS API.
+
+3. Double-click 2-START.cmd. When the site is ready, your browser opens
+   the dashboard.
+
+4. Double-click 3-STOP.cmd when finished. Closing the browser does not
+   stop the local website.
+
+NEXT TIME
+Double-click 2-START.cmd to open the app, then 3-STOP.cmd to close it.
+Setup is needed again only after a new client ZIP is supplied.
+
+Website: http://127.0.0.1:3000/dashboard
+
+Luna narrates lessons with synchronized sentence highlighting.
+The Time Travel and Tri-Quest games are included alongside the four
+original games. Game progress and lesson progress are stored in this
+browser on this device.
+
+IF SOMETHING DOES NOT WORK
+- Run 4-CHECK.cmd for learning-data, TypeScript, and saved-audio checks.
+- Send the logs folder and the exact error text to the developer.
+- If a download fails, restore internet access and rerun Setup. Do not
+  disable antivirus protection.
+- If port 3000 is already in use, stop the other copy/server and retry.
+  This launcher does not stop unrelated applications.
+- If you move this folder after setup, extract a fresh copy at the new
+  location and run Setup there. Installed environments are not portable.
+
+WHAT IS INSTALLED
+- Node.js 22.23.2 and its included npm, stored in .runtime.
+- Website dependencies from package-lock.json, stored in node_modules.
+- The built website, stored in .next.
+- Saved Luna recordings and sentence timings in public/audio/lessons.
+
+No administrator account, system PATH change, Git, editor, GPU, API key,
+Python install, TTS library, or model download is required.
+
+This client package runs locally on this computer. The separate GitHub
+source project includes developer instructions for running the website
+from source and deploying it to Vercel. Progress is saved in this
+browser; clearing its site data clears progress. Some website fonts and
+resources use the internet.
+
+COMMAND-LINE ALTERNATIVE (PowerShell, inside the extracted folder)
+powershell -NoProfile -ExecutionPolicy Bypass -File scripts/client.ps1 -Action Setup
+powershell -NoProfile -ExecutionPolicy Bypass -File scripts/client.ps1 -Action Start
+powershell -NoProfile -ExecutionPolicy Bypass -File scripts/client.ps1 -Action Stop
+
+DEVELOPER: CREATE THE CLIENT DELIVERY FOLDER
+powershell -NoProfile -ExecutionPolicy Bypass -File scripts/package-client.ps1
+Give the client Geo-Measure-Client.zip, its .sha256 file, and this guide
+from CLIENT-DELIVERY. The ZIP excludes dependencies, local runtimes,
+build output, voice-studio setup files, model downloads, logs, and caches.

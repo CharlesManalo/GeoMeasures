@@ -1,0 +1,53 @@
+{
+  "id": 11,
+  "title": "Right & oblique triangles",
+  "sentences": [
+    "Right & oblique triangles",
+    "An oblique triangle has no 90° angle.",
+    "Label side a opposite angle A, and likewise b/B and c/C.",
+    "The sine rule connects opposite side-angle pairs.",
+    "The cosine rule finds a missing side from two sides and their included angle, or an angle from three sides.",
+    "A sine-rule problem with two sides and a non-included angle may have zero, one, or two solutions.",
+    "Let’s work it out",
+    "Two sides are 5 cm and 7 cm, with an included angle of 60°.",
+    "Find the third side.",
+    "Two sides and their included angle are known: c² = 5² + 7² − 2(5)(7) cos 60°.",
+    "c² = 25 + 49 − 70(0.5) = 39.",
+    "c = √39 ≈ 6.24 cm.",
+    "The triangle is not right, so Pythagoras alone would be wrong."
+  ],
+  "spoken": [
+    "Right & oblique triangles.",
+    "An oblique triangle has no 90 degrees angle.",
+    "Label side a opposite angle A, and likewise b divided by B and c divided by C.",
+    "The sine rule connects opposite side-angle pairs.",
+    "The cosine rule finds a missing side from two sides and their included angle, or an angle from three sides.",
+    "A sine-rule problem with two sides and a non-included angle may have zero, one, or two solutions.",
+    "Let’s work it out.",
+    "Two sides are 5 centimeters and 7 centimeters, with an included angle of 60 degrees.",
+    "Find the third side.",
+    "Two sides and their included angle are known: c squared equals 5 squared plus 7 squared minus 2(5)(7) cos 60 degrees.",
+    "c squared equals 25 plus 49 minus 70(0.5) equals 39.",
+    "c equals square root of 39 approximately 6.24 centimeters.",
+    "The triangle is not right, so Pythagoras alone would be wrong."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-11.wav",
+  "durations": [
+    2.4166666666666665,
+    3.6166666666666667,
+    6.741666666666666,
+    3.6166666666666667,
+    7.991666666666666,
+    7.416666666666667,
+    2.0416666666666665,
+    6.441666666666666,
+    1.6166666666666667,
+    9.891666666666667,
+    7.041666666666667,
+    6.241666666666666,
+    5.691666666666666
+  ],
+  "pause": 0.32,
+  "sourceHash": "a53c86c4b8082837e39e2324121694cca18363c5059b74dadd5dad85a7f4de31"
+}

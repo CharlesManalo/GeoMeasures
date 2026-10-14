@@ -1,0 +1,44 @@
+{
+  "id": 12,
+  "title": "Angles of elevation & depression",
+  "sentences": [
+    "Angles of elevation & depression",
+    "An angle of elevation looks upward from horizontal; an angle of depression looks downward.",
+    "For a level-ground model, the vertical rise divided by the horizontal distance is tangent of the angle.",
+    "The rise begins at the observer's eye level, so add eye height to get total height above the ground.",
+    "Let’s work it out",
+    "You stand 12 m from a pole.",
+    "Its top is at 45° elevation, and your eyes are 1.5 m above level ground.",
+    "h = 12 tan 45° = 12 × 1 = 12 m.",
+    "Total height = 12 + 1.5.",
+    "The pole is 13.5 m tall, assuming the ground between you and the pole is level."
+  ],
+  "spoken": [
+    "Angles of elevation & depression.",
+    "An angle of elevation looks upward from horizontal; an angle of depression looks downward.",
+    "For a level-ground model, the vertical rise divided by the horizontal distance is tangent of the angle.",
+    "The rise begins at the observer's eye level, so add eye height to get total height above the ground.",
+    "Let’s work it out.",
+    "You stand 12 meters from a pole.",
+    "Its top is at 45 degrees elevation, and your eyes are 1.5 meters above level ground.",
+    "h equals 12 tan 45 degrees equals 12 times 1 equals 12 meters.",
+    "Total height equals 12 plus 1.5.",
+    "The pole is 13.5 meters tall, assuming the ground between you and the pole is level."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-12.wav",
+  "durations": [
+    2.816666666666667,
+    6.741666666666666,
+    8.041666666666666,
+    7.116666666666666,
+    2.0416666666666665,
+    2.716666666666667,
+    7.666666666666667,
+    7.316666666666666,
+    4.216666666666667,
+    7.066666666666666
+  ],
+  "pause": 0.32,
+  "sourceHash": "3954fe9741fa8c6b0a34a762d6d13a97a9b6ff5422e19120bf433113d9ba92ff"
+}

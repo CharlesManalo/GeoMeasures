@@ -1,0 +1,47 @@
+{
+  "id": 2,
+  "title": "Unit conversions",
+  "sentences": [
+    "Unit conversions",
+    "A conversion factor is a ratio of equal quantities, such as 100 cm / 1 m.",
+    "Multiply so the old unit cancels.",
+    "Area has two dimensions, so square a length conversion factor; volume has three, so cube it.",
+    "Speed combines a distance unit and a time unit, which may both need converting.",
+    "Let’s work it out",
+    "Convert 72 km/h to meters per second.",
+    "72 km/h × 1,000 m/km = 72,000 m/h.",
+    "One hour contains 3,600 seconds, so divide 72,000 by 3,600.",
+    "72 km/h = 20 m/s.",
+    "The distance traveled in one second is 20 meters."
+  ],
+  "spoken": [
+    "Unit conversions.",
+    "A conversion factor is a ratio of equal quantities, such as 100 centimeters divided by 1 meter.",
+    "Multiply so the old unit cancels.",
+    "Area has two dimensions, so square a length conversion factor; volume has three, so cube it.",
+    "Speed combines a distance unit and a time unit, which may both need converting.",
+    "Let’s work it out.",
+    "Convert 72 kilometers per hour to meters per second.",
+    "72 kilometers per hour times 1,000 meters divided by kilometers equals 72,000 meters per hour.",
+    "One hour contains 3,600 seconds, so divide 72,000 by 3,600.",
+    "72 kilometers per hour equals 20 meters per second.",
+    "The distance traveled in one second is 20 meters."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-2.wav",
+  "durations": [
+    1.2916666666666667,
+    7.791666666666667,
+    3.0166666666666666,
+    6.966666666666667,
+    5.591666666666667,
+    2.0416666666666665,
+    5.616666666666666,
+    10.641666666666667,
+    7.466666666666667,
+    5.866666666666666,
+    3.9916666666666667
+  ],
+  "pause": 0.32,
+  "sourceHash": "be59864b8bbf4940c9966e84846e9e7e24d30e406c9e0468f53f8c7fd3ec6a98"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 5,
+  "title": "Scale: small plans, real spaces",
+  "sentences": [
+    "Scale: small plans, real spaces",
+    "A scale of 1 : 100 means one unit in the drawing represents 100 of the same units in reality.",
+    "The ratio is dimensionless only after both distances use the same unit.",
+    "Multiply a drawing length by the scale factor to find its actual length; divide to go back to the drawing.",
+    "Let’s work it out",
+    "A room is 6 m long.",
+    "Draw its length at a scale of 1 : 50.",
+    "6 m = 600 cm.",
+    "Drawing length = 600 ÷ 50 = 12 cm.",
+    "12 cm × 50 = 600 cm = 6 m, matching the real room."
+  ],
+  "spoken": [
+    "Scale: small plans, real spaces.",
+    "A scale of 1: 100 means one unit in the drawing represents 100 of the same units in reality.",
+    "The ratio is dimensionless only after both distances use the same unit.",
+    "Multiply a drawing length by the scale factor to find its actual length; divide to go back to the drawing.",
+    "Let’s work it out.",
+    "A room is 6 meters long.",
+    "Draw its length at a scale of 1: 50.",
+    "6 meters equals 600 centimeters.",
+    "Drawing length equals 600 divided by 50 equals 12 centimeters.",
+    "12 centimeters times 50 equals 600 centimeters equals 6 meters, matching the real room."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-5.wav",
+  "durations": [
+    2.7416666666666667,
+    7.866666666666666,
+    5.541666666666667,
+    7.366666666666666,
+    2.0416666666666665,
+    2.691666666666667,
+    3.3916666666666666,
+    3.3916666666666666,
+    5.491666666666666,
+    8.041666666666666
+  ],
+  "pause": 0.32,
+  "sourceHash": "90caa473f215b48815f2f7d157c588bf83538e8e3e1fc2dbf9c0624b5fe698e7"
+}

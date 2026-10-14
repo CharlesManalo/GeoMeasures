@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "title": "Metric units & scientific notation",
+  "sentences": [
+    "Metric units & scientific notation",
+    "A unit tells us what a number measures.",
+    "Length uses meters, area uses square meters, and volume uses cubic meters.",
+    "Mass uses kilograms; liters describe capacity.",
+    "Scientific notation preserves a number's value while moving its decimal point: the power of ten tells you how far it moved.",
+    "Let’s work it out",
+    "Write 0.00072 m in scientific notation.",
+    "Move the decimal four places right to get 7.2.",
+    "It is between 1 and 10.",
+    "Because the original number is less than 1, use a negative exponent: 10⁻⁴.",
+    "0.00072 m = 7.2 × 10⁻⁴ m.",
+    "Multiplying back gives the original measurement."
+  ],
+  "spoken": [
+    "Metric units & scientific notation.",
+    "A unit tells us what a number measures.",
+    "Length uses meters, area uses square meters, and volume uses cubic meters.",
+    "Mass uses kilograms; liters describe capacity.",
+    "Scientific notation preserves a number's value while moving its decimal point: the power of ten tells you how far it moved.",
+    "Let’s work it out.",
+    "Write 0.00072 meters in scientific notation.",
+    "Move the decimal four places right to get 7.2.",
+    "It is between 1 and 10.",
+    "Because the original number is less than 1, use a negative exponent: 10⁻⁴.",
+    "0.00072 meters equals 7.2 times 10⁻⁴ meters.",
+    "Multiplying back gives the original measurement."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-1.wav",
+  "durations": [
+    3.341666666666667,
+    3.2666666666666666,
+    6.341666666666667,
+    4.291666666666667,
+    9.141666666666667,
+    2.0416666666666665,
+    5.616666666666666,
+    4.591666666666667,
+    2.7416666666666667,
+    5.441666666666666,
+    6.441666666666666,
+    3.7916666666666665
+  ],
+  "pause": 0.32,
+  "sourceHash": "62811fcda29d45371efbf6cd694e4eed0e530211a11839e4e11867e463c6e2a5"
+}

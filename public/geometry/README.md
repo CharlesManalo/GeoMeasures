@@ -1,0 +1,11 @@
+# Pastel geometric solids
+
+Saved asset: `pastel-solids.png`, 1536 × 1024 RGBA PNG. Generated with the built-in ImageGen tool. Alpha at the canvas corner and the gap between cells is zero; the original alpha is preserved. The original generated file is retained in the Codex generated-images folder.
+
+Three columns, two rows. Order: cube, rectangular prism, cylinder; cone, sphere, square pyramid. `SolidLibrary.tsx` selects each cell using CSS background regions; no raster pixel edits or manual cropping were performed.
+
+Used for solid recognition in surface-area and volume lessons and for the Formula friends game cover. Dimensions, labels, formulas, and manipulable mathematical diagrams are rendered separately in code.
+
+## Final generation prompt
+
+Use case: stylized-concept. Asset type: educational game sprite sheet for GEO MEASURE, a soft pastel math-learning website with chibi companions. Generate one transparent PNG sprite sheet, wide landscape 1536 by 1024. EXACTLY SIX separate solid objects in a precise 3-column by 2-row grid. Each 512x512 cell holds ONE complete solid, centered with at least 80 pixels of transparent padding to every cell boundary. Top row LEFT a lavender CUBE with equal edges, CENTER a mint RECTANGULAR PRISM clearly longer than tall, RIGHT a sky-blue upright CYLINDER with circular top. Bottom row LEFT a blush-pink upright CONE, CENTER a pale golden SPHERE, RIGHT a lavender/mint SQUARE-BASED PYRAMID with one apex. Clean recognizable mathematical silhouettes; subtly rounded edges but planar faces remain planar. Polished softly shaded illustrated clay-toy appearance, gentle directional highlights, fine dark-plum contour lines matching a kawaii pastel web illustration. Consistent three-quarter isometric viewpoint and gentle upper-left lighting. Each object about 280 to 320 pixels in visual size, fully visible, individually isolated and with plenty of space around it; none overlap or cross cell boundaries. True transparent background, no floor, no cast shadow beyond silhouette, no text, letters, numbers, formulas, dimension lines, faces, eyes, arms, legs, bears, characters, emojis, stickers, decorative particles, borders, or grid lines. These are educational solid-recognition sprites, not technical measured diagrams.

@@ -1,0 +1,44 @@
+{
+  "id": 10,
+  "title": "Sine, cosine & tangent",
+  "sentences": [
+    "Sine, cosine & tangent",
+    "Opposite and adjacent depend on the angle you choose; the hypotenuse does not.",
+    "Sine connects opposite and hypotenuse, cosine connects adjacent and hypotenuse, and tangent connects opposite and adjacent.",
+    "Use a calculator in degree mode when the angle is given in degrees.",
+    "Let’s work it out",
+    "A right triangle has a 30° angle and a 10 cm hypotenuse.",
+    "Find the side opposite 30°.",
+    "Opposite and hypotenuse belong to sine: sin 30° = opposite / 10.",
+    "opposite = 10 × sin 30°.",
+    "sin 30° = 0.5, so the opposite side is 5 cm."
+  ],
+  "spoken": [
+    "Sine, cosine & tangent.",
+    "Opposite and adjacent depend on the angle you choose; the hypotenuse does not.",
+    "Sine connects opposite and hypotenuse, cosine connects adjacent and hypotenuse, and tangent connects opposite and adjacent.",
+    "Use a calculator in degree mode when the angle is given in degrees.",
+    "Let’s work it out.",
+    "A right triangle has a 30 degrees angle and a 10 centimeters hypotenuse.",
+    "Find the side opposite 30 degrees.",
+    "Opposite and hypotenuse belong to sine: sin 30 degrees equals opposite divided by 10.",
+    "opposite equals 10 times sin 30 degrees.",
+    "sin 30 degrees equals 0.5, so the opposite side is 5 centimeters."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-10.wav",
+  "durations": [
+    1.8416666666666666,
+    5.241666666666666,
+    8.741666666666667,
+    4.916666666666667,
+    2.0416666666666665,
+    5.666666666666667,
+    2.8666666666666667,
+    7.541666666666667,
+    4.216666666666667,
+    6.891666666666667
+  ],
+  "pause": 0.32,
+  "sourceHash": "991cff1a84c9bd4937f4784a1422107832f2eaab56d41a20087314d5bb81e2bc"
+}

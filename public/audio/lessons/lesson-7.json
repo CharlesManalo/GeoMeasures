@@ -1,0 +1,47 @@
+{
+  "id": 7,
+  "title": "Time & elapsed duration",
+  "sentences": [
+    "Time & elapsed duration",
+    "Clock time is based on groups of 60, not 100.",
+    "Convert times to a common unit before subtracting.",
+    "For an interval crossing midnight, treat the end as part of the next day.",
+    "Net time removes breaks from the elapsed duration.",
+    "Let’s work it out",
+    "A task runs from 9:40 to 11:15 with a 15-minute break.",
+    "Find net work time.",
+    "9:40 to 10:00 is 20 minutes.",
+    "10:00 to 11:15 is 75 minutes, so elapsed time is 20 + 75 = 95 minutes.",
+    "95 − 15 = 80 minutes of work, or 1 hour 20 minutes."
+  ],
+  "spoken": [
+    "Time & elapsed duration.",
+    "Clock time is based on groups of 60, not 100.",
+    "Convert times to a common unit before subtracting.",
+    "For an interval crossing midnight, treat the end as part of the next day.",
+    "Net time removes breaks from the elapsed duration.",
+    "Let’s work it out.",
+    "A task runs from 9:40 to 11:15 with a 15-minute break.",
+    "Find net work time.",
+    "9:40 to 10:00 is 20 minutes.",
+    "10:00 to 11:15 is 75 minutes, so elapsed time is 20 plus 75 equals 95 minutes.",
+    "95 minus 15 equals 80 minutes of work, or 1 hour 20 minutes."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-7.wav",
+  "durations": [
+    2.5166666666666666,
+    4.691666666666666,
+    4.041666666666667,
+    5.066666666666666,
+    3.7916666666666665,
+    2.0416666666666665,
+    5.966666666666667,
+    1.5666666666666667,
+    3.3666666666666667,
+    9.766666666666667,
+    6.391666666666667
+  ],
+  "pause": 0.32,
+  "sourceHash": "c7b591897fe1c5d0efc31f0a396ee9cb5d0afdc8f1b29c81fff764d27e49484c"
+}

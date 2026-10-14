@@ -1,0 +1,47 @@
+{
+  "id": 4,
+  "title": "Volume: the space inside",
+  "sentences": [
+    "Volume: the space inside",
+    "Volume measures three-dimensional space.",
+    "A prism stacks an unchanged base through a perpendicular height, giving V = Bh.",
+    "A pyramid or cone with the same base and height has one third of the corresponding prism or cylinder's volume.",
+    "Use matching units for all dimensions before multiplying.",
+    "Let’s work it out",
+    "Find the volume of a cylinder with radius 3 cm and height 5 cm.",
+    "Use π ≈ 3.1416.",
+    "B = π × 3² = 9π cm².",
+    "V = B × h = 9π × 5 = 45π cm³.",
+    "45 × 3.1416 = 141.372 cm³, or about 141.37 cm³."
+  ],
+  "spoken": [
+    "Volume: the space inside.",
+    "Volume measures three-dimensional space.",
+    "A prism stacks an unchanged base through a perpendicular height, giving V equals Bh.",
+    "A pyramid or cone with the same base and height has one third of the corresponding prism or cylinder's volume.",
+    "Use matching units for all dimensions before multiplying.",
+    "Let’s work it out.",
+    "Find the volume of a cylinder with radius 3 centimeters and height 5 centimeters.",
+    "Use pi approximately 3.1416.",
+    "B equals pi times 3 squared equals 9 pi square centimeters.",
+    "V equals B times h equals 9 pi times 5 equals 45 pi cubic centimeters.",
+    "45 times 3.1416 equals 141.372 cubic centimeters, or about 141.37 cubic centimeters."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-4.wav",
+  "durations": [
+    2.6666666666666665,
+    3.316666666666667,
+    6.866666666666666,
+    7.741666666666666,
+    4.491666666666666,
+    2.0416666666666665,
+    6.816666666666666,
+    4.291666666666667,
+    5.641666666666667,
+    7.991666666666666,
+    12.266666666666667
+  ],
+  "pause": 0.32,
+  "sourceHash": "8965af8a15d2a872dc6f8ff890b257fb847c0862ac551e4cf1e5bb517220ebba"
+}

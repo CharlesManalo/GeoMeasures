@@ -1,0 +1,44 @@
+{
+  "id": 8,
+  "title": "Temperature across three scales",
+  "sentences": [
+    "Temperature across three scales",
+    "Celsius to Fahrenheit needs both a scale factor and an offset.",
+    "To reverse it, undo the offset first.",
+    "Kelvin and Celsius have equal-sized steps but different zero points.",
+    "Write K without a degree symbol; the Kelvin scale starts at absolute zero.",
+    "Let’s work it out",
+    "Convert 68°F to Celsius and Kelvin.",
+    "68 − 32 = 36.",
+    "36 × 5/9 = 20°C.",
+    "20 + 273.15 = 293.15 K."
+  ],
+  "spoken": [
+    "Temperature across three scales.",
+    "Celsius to Fahrenheit needs both a scale factor and an offset.",
+    "To reverse it, undo the offset first.",
+    "Kelvin and Celsius have equal-sized steps but different zero points.",
+    "Write K without a degree symbol; the Kelvin scale starts at absolute zero.",
+    "Let’s work it out.",
+    "Convert 68 degrees F to Celsius and Kelvin.",
+    "68 minus 32 equals 36.",
+    "36 times 5 divided by 9 equals 20 degrees C.",
+    "20 plus 273.15 equals 293.15 K."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-8.wav",
+  "durations": [
+    2.7416666666666667,
+    5.016666666666667,
+    3.0166666666666666,
+    5.491666666666666,
+    5.591666666666667,
+    2.0416666666666665,
+    4.266666666666667,
+    3.4916666666666667,
+    5.141666666666667,
+    6.966666666666667
+  ],
+  "pause": 0.32,
+  "sourceHash": "35bc8ff81cbb81e1802888714873855578a94d5a1a8f6284442bdcd6e4bd93e0"
+}

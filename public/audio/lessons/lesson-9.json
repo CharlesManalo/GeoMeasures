@@ -1,0 +1,50 @@
+{
+  "id": 9,
+  "title": "Right-triangle foundations",
+  "sentences": [
+    "Right-triangle foundations",
+    "In a right triangle, the hypotenuse is the longest side and sits opposite the 90° angle.",
+    "The squares of the two legs add to the square of the hypotenuse.",
+    "This relationship only applies to right triangles.",
+    "To find a leg, subtract the other leg's square from the hypotenuse's square.",
+    "Let’s work it out",
+    "A right triangle has legs 6 m and 8 m.",
+    "Find its hypotenuse.",
+    "6² = 36 and 8² = 64.",
+    "c² = 36 + 64 = 100.",
+    "c = √100 = 10 m.",
+    "A side length is positive."
+  ],
+  "spoken": [
+    "Right-triangle foundations.",
+    "In a right triangle, the hypotenuse is the longest side and sits opposite the 90 degrees angle.",
+    "The squares of the two legs add to the square of the hypotenuse.",
+    "This relationship only applies to right triangles.",
+    "To find a leg, subtract the other leg's square from the hypotenuse's square.",
+    "Let’s work it out.",
+    "A right triangle has legs 6 meters and 8 meters.",
+    "Find its hypotenuse.",
+    "6 squared equals 36 and 8 squared equals 64.",
+    "c squared equals 36 plus 64 equals 100.",
+    "c equals square root of 100 equals 10 meters.",
+    "A side length is positive."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-9.wav",
+  "durations": [
+    2.1416666666666666,
+    7.616666666666666,
+    5.141666666666667,
+    3.816666666666667,
+    5.266666666666667,
+    2.0416666666666665,
+    4.166666666666667,
+    1.7416666666666667,
+    5.116666666666666,
+    5.241666666666666,
+    3.6666666666666665,
+    2.3666666666666667
+  ],
+  "pause": 0.32,
+  "sourceHash": "decf72bc343a470698962988847b9cbdcb51beb9a3502c0f262a35f012c40c38"
+}

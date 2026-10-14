@@ -1,0 +1,284 @@
+TERM 1 — Measurement and Geometry
+1. Metric Units and Scientific Measurements
+Meaning: This topic deals with units used to measure length, mass, capacity, area, and volume, including expressing very large or very small numbers using scientific notation.
+
+Formulas:
+
+1 km = 1,000 m
+
+1 m = 100 cm
+
+1 cm = 10 mm
+
+1 kg = 1,000 g
+
+1 L = 1,000 mL
+
+1 m² = 10,000 cm²
+
+1 m³ = 1,000 L
+
+N = a × 10ⁿ
+
+Where: 1 ≤ |a| < 10 and n is an integer.
+
+2. Unit Conversions
+Meaning: Unit conversion is the process of changing a measurement from one unit to another without changing its actual value.
+
+Formulas:
+
+New Value = Given Value × Conversion Factor
+
+Speed = Distance / Time
+
+1 hour = 60 minutes
+
+1 day = 24 hours
+
+1 hectare = 10,000 m²
+
+1 foot = 30.48 cm
+
+3. Surface Area of Three-Dimensional Objects
+Meaning: Surface area is the total area covering the outside of a three-dimensional object.
+
+Formulas:
+
+Rectangular Prism: SA = 2(lw + lh + wh)
+
+Cube: SA = 6s²
+
+Cylinder: SA = 2πr² + 2πrh
+
+Curved Surface Area of a Cylinder: CSA = 2πrh
+
+Cone: SA = πr² + πrℓ
+
+Sphere: SA = 4πr²
+
+Regular Pyramid: SA = B + ½Pℓ
+
+General Prism: SA = 2B + Ph
+
+For combined solids, add only the exposed surface areas.
+
+Where: SA = surface area, B = base area, P = base perimeter, r = radius, h = height, ℓ = slant height, l = length, w = width, s = side, and π ≈ 3.1416.
+
+4. Volume of Three-Dimensional Objects
+Meaning: Volume is the amount of space occupied by a three-dimensional object.
+
+Formulas:
+
+Cube: V = s³
+
+Rectangular Prism: V = lwh
+
+General Prism: V = Bh
+
+Pyramid: V = ⅓Bh
+
+Cylinder: V = πr²h
+
+Cone: V = ⅓πr²h
+
+Sphere: V = ⁴⁄₃πr³
+
+For combined solids, add or subtract volumes as needed.
+
+5. Scale: Maps, Blueprints, and Sketches
+Meaning: Scale represents the relationship between a distance shown in a drawing and the corresponding actual distance.
+
+Formulas:
+
+Scale = Drawing Distance / Actual Distance
+
+Actual Distance = Drawing Distance × Scale Factor
+
+Drawing Distance = Actual Distance / Scale Factor
+
+For a scale of 1:n, multiply the drawing distance by n to get the actual distance.
+
+Always convert both distances to the same unit first.
+
+6. Currency Conversion
+Meaning: Currency conversion is the process of changing an amount of money from one currency to another using an exchange rate.
+
+Formulas:
+
+Converted Amount = Original Amount × Exchange Rate
+
+Pesos = US Dollars × Exchange Rate
+
+US Dollars = Pesos / Exchange Rate
+
+7. Time Conversions
+Meaning: Time conversion involves changing units of time or calculating the duration between two times.
+
+Formulas:
+
+Elapsed Time = End Time − Start Time
+
+Net Time = Elapsed Time − Break Time
+
+1 hour = 60 minutes
+
+1 minute = 60 seconds
+
+1 day = 24 hours
+
+8. Temperature Conversions
+Meaning: Temperature conversion changes a temperature reading from one scale to another.
+
+Formulas:
+
+Celsius to Fahrenheit: F = (9/5)C + 32
+
+Fahrenheit to Celsius: C = (5/9)(F − 32)
+
+Celsius to Kelvin: K = C + 273.15
+
+Kelvin to Celsius: C = K − 273.15
+
+TERM 2 — Measurement and Geometry
+1. Trigonometric Ratios in Right Triangles
+Meaning: Trigonometric ratios describe the relationship between the sides and angles of a right triangle.
+
+Formulas:
+
+Sine: sin θ = Opposite / Hypotenuse
+
+Cosine: cos θ = Adjacent / Hypotenuse
+
+Tangent: tan θ = Opposite / Adjacent
+
+Pythagorean Theorem: a² + b² = c²
+
+Where c is the hypotenuse.
+
+2. Right and Oblique Triangles
+Meaning: Right triangles contain one 90° angle, while oblique triangles have no 90° angle.
+
+Formulas:
+
+Law of Sines: a/sin A = b/sin B = c/sin C
+
+Law of Cosines: c² = a² + b² − 2ab cos C
+
+a² = b² + c² − 2bc cos A
+
+b² = a² + c² − 2ac cos B
+
+3. Angles of Elevation and Depression
+Meaning: The angle of elevation is measured upward from the horizontal, while the angle of depression is measured downward from the horizontal.
+
+Formulas:
+
+tan θ = Vertical Height / Horizontal Distance
+
+h = d tan θ
+
+d = h / tan θ
+
+Total Height = d tan θ + Eye Height
+
+4. Bearings and Navigation
+Meaning: Bearings describe direction using angles measured clockwise from north. Navigation problems may involve calculating direction and distance.
+
+Formulas:
+
+Distance = √(x² + y²)
+
+Bearing Angle = tan⁻¹(East Displacement / North Displacement)
+
+Bearings are commonly expressed using three digits, from 000° to 359°.
+
+5. Area of Oblique Triangles
+Meaning: The area of an oblique triangle can be determined using its side lengths or two sides and their included angle.
+
+Formulas:
+
+Heron's Formula: A = √[s(s − a)(s − b)(s − c)]
+
+Semi-perimeter: s = (a + b + c) / 2
+
+Using Two Sides and Included Angle: A = ½ab sin C
+
+A = ½bc sin A
+
+A = ½ac sin B
+
+6. Length and Distance
+Meaning: Length measures the size of an object, while distance measures the separation between two points or the path traveled.
+
+Formulas:
+
+Distance at Constant Speed: d = vt
+
+Distance Between Two Points: d = √[(x₂ − x₁)² + (y₂ − y₁)²]
+
+Rectangle Diagonal: d = √(l² + w²)
+
+7. Area and Perimeter of Residential Spaces
+Meaning: Area measures the surface covered by a shape, while perimeter measures the total distance around its boundary.
+
+Formulas:
+
+Square Area: A = s²
+
+Square Perimeter: P = 4s
+
+Rectangle Area: A = lw
+
+Rectangle Perimeter: P = 2(l + w)
+
+Triangle Area: A = ½bh
+
+Triangle Perimeter: P = a + b + c
+
+Circle Area: A = πr²
+
+Circle Circumference: C = 2πr
+
+Fence Length = Perimeter − Gate Width
+
+Total Cost = Fence Length × Cost per Unit
+
+Required Flooring Area = Floor Area × (1 + Extra Rate)
+
+8. Volume and Capacity of Three-Dimensional Objects
+Meaning: Volume measures the space occupied by an object, while capacity measures how much a container can hold.
+
+Formulas:
+
+Rectangular Tank: V = lwh
+
+Cube-shaped Container: V = s³
+
+Cylinder: V = πr²h
+
+Prism: V = Bh
+
+1 m³ = 1,000 L
+
+1 L = 1,000 mL
+
+Liquid Volume = Total Capacity × Filled Fraction
+
+Additional Volume = Total Capacity − Current Volume
+
+9. Volume, Capacity, and Cost Estimation
+Meaning: Estimation determines the amount of material needed and its approximate cost for projects such as painting walls, flooring rooms, or filling containers.
+
+Formulas:
+
+Material Needed = Total Area or Volume / Coverage per Unit
+
+Paint Needed = (Net Wall Area × Number of Coats) / Coverage per Liter
+
+Wall Area = 2h(l + w)
+
+Net Area = Wall Area − Doors and Windows Area
+
+Total Cost = Quantity Needed × Price per Unit
+
+Round up when purchasing whole units of materials.

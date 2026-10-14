@@ -1,0 +1,44 @@
+{
+  "id": 13,
+  "title": "Bearings & navigation",
+  "sentences": [
+    "Bearings & navigation",
+    "A bearing is measured clockwise from north: east is 090°, south is 180°, and west is 270°.",
+    "For east displacement E and north displacement N, a right triangle gives the straight-line distance.",
+    "The simple inverse-tangent ratio needs a quadrant check; atan2(E, N) handles all quadrants when normalized to 0°–360°.",
+    "Let’s work it out",
+    "Walk 3 km east, then 4 km north.",
+    "Find your displacement from the starting point.",
+    "E = 3 km and N = 4 km; the destination is northeast.",
+    "d = √(3² + 4²) = 5 km, while the walked path was 7 km.",
+    "tan⁻¹(3/4) ≈ 36.87°, written as bearing 037° to the nearest degree."
+  ],
+  "spoken": [
+    "Bearings & navigation.",
+    "A bearing is measured clockwise from north: east is 090 degrees, south is 180 degrees, and west is 270 degrees.",
+    "For east displacement E and north displacement N, a right triangle gives the straight-line distance.",
+    "The simple inverse-tangent ratio needs a quadrant check; atan2(E, N) handles all quadrants when normalized to 0 degrees minus 360 degrees.",
+    "Let’s work it out.",
+    "Walk 3 kilometers east, then 4 kilometers north.",
+    "Find your displacement from the starting point.",
+    "E equals 3 kilometers and N equals 4 kilometers; the destination is northeast.",
+    "d equals square root of (3 squared plus 4 squared ) equals 5 kilometers, while the walked path was 7 kilometers.",
+    "tan⁻¹(3 divided by 4) approximately 36.87 degrees, written as bearing 037 degrees to the nearest degree."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-13.wav",
+  "durations": [
+    1.6166666666666667,
+    9.566666666666666,
+    6.941666666666666,
+    11.666666666666666,
+    2.0416666666666665,
+    3.8666666666666667,
+    3.2416666666666667,
+    7.466666666666667,
+    8.741666666666667,
+    9.816666666666666
+  ],
+  "pause": 0.32,
+  "sourceHash": "b31ca339a6ae1594fccfe54041f924977f22db2e2e9732b0a39c4bb0d3b9a6c8"
+}

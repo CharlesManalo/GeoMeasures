@@ -1,0 +1,3 @@
+.lesson-source-sentence{border-radius:3px;transition:color 180ms ease,background-color 180ms ease,font-weight 180ms ease,text-decoration-color 180ms ease}
+.lesson-source-sentence.active{color:#453352;background:#f0e7f8;font-weight:800;text-decoration:underline;text-decoration-color:#9471b1;text-decoration-thickness:1.5px;text-underline-offset:3px}
+@media(prefers-reduced-motion:reduce){.lesson-source-sentence{transition:none}}

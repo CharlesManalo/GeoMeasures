@@ -1,0 +1,44 @@
+{
+  "id": 6,
+  "title": "Currency conversion",
+  "sentences": [
+    "Currency conversion",
+    "An exchange rate describes one currency in terms of another.",
+    "If a practice rate is 55 pesos per US dollar, multiply dollars by 55 to get pesos.",
+    "Divide pesos by 55 to get dollars.",
+    "Lesson rates are illustrative, not live market rates; real transactions may also include fees.",
+    "Let’s work it out",
+    "At the illustrative rate of 55 pesos per dollar, convert 1,375 pesos to dollars.",
+    "55 pesos equals 1 dollar, so group the pesos into sets of 55.",
+    "1,375 ÷ 55 = 25.",
+    "The result is 25.00 US dollars under this practice rate, before any fees."
+  ],
+  "spoken": [
+    "Currency conversion.",
+    "An exchange rate describes one currency in terms of another.",
+    "If a practice rate is 55 pesos per US dollar, multiply dollars by 55 to get pesos.",
+    "Divide pesos by 55 to get dollars.",
+    "Lesson rates are illustrative, not live market rates; real transactions may also include fees.",
+    "Let’s work it out.",
+    "At the illustrative rate of 55 pesos per dollar, convert 1,375 pesos to dollars.",
+    "55 pesos equals 1 dollar, so group the pesos into sets of 55.",
+    "1,375 divided by 55 equals 25.",
+    "The result is 25.00 US dollars under this practice rate, before any fees."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-6.wav",
+  "durations": [
+    1.5416666666666667,
+    4.716666666666667,
+    8.591666666666667,
+    3.941666666666667,
+    6.691666666666666,
+    2.0416666666666665,
+    7.516666666666667,
+    6.291666666666667,
+    5.216666666666667,
+    6.441666666666666
+  ],
+  "pause": 0.32,
+  "sourceHash": "b91d0682d8f43f5ac35036ba5d3ed3600d55da6a427f7cb0183aa5a1e4fd9840"
+}

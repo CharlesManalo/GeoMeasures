@@ -1,0 +1,11 @@
+import type {ReactNode} from "react";
+import {degrees} from "./math";
+function Diagram({label,children}:{label:string;children:ReactNode}){return <svg className="math-diagram" viewBox="0 0 360 250" role="img" aria-label={label}>{children}</svg>;}
+export function CompassDiagram({angle,target}:{angle:number;target?:number}){
+ const endpoint=(a:number,r:number)=>({x:Number((180+Math.sin(degrees(a))*r).toFixed(3)),y:Number((125-Math.cos(degrees(a))*r).toFixed(3))});const point=endpoint(angle,78);const destination=target===undefined?null:endpoint(target,82);
+ return <Diagram label={`Compass showing bearing ${String(Math.round(angle)%360).padStart(3,"0")} degrees clockwise from north${target===undefined?"":`, target at ${target} degrees`}`}><circle cx="180" cy="125" r="86" className="diagram-surface"/>{Array.from({length:12},(_,i)=>{const a=endpoint(i*30,79),b=endpoint(i*30,86);return <path key={i} d={`M${a.x} ${a.y}L${b.x} ${b.y}`} className="diagram-line faint"/>;})}<path d="M180 37v176M94 125h172" className="diagram-line faint"/><text x="180" y="23" textAnchor="middle">N</text><text x="285" y="130">E</text><text x="180" y="238" textAnchor="middle">S</text><text x="65" y="130">W</text>{destination&&<circle cx={destination.x} cy={destination.y} r="10" className="diagram-target"/>}<path d={`M180 125L${point.x} ${point.y}`} className="diagram-accent"/><circle cx={point.x} cy={point.y} r="5" className="diagram-dot"/><circle cx="180" cy="125" r="5" className="diagram-ink"/></Diagram>;
+}
+export function FloorDiagram({length,width}:{length:number;width:number}){
+ const scale=Math.min(260/length,155/width),w=length*scale,h=width*scale,x=(360-w)/2,y=(250-h)/2;
+ return <Diagram label={`Rectangular room ${length} meters long and ${width} meters wide`}><rect x={x} y={y} width={w} height={h} className="diagram-mint"/>{Array.from({length:Math.ceil(length)-1},(_,i)=><path key={`v${i}`} d={`M${x+(i+1)*scale} ${y}v${h}`} className="diagram-line faint"/>)}{Array.from({length:Math.ceil(width)-1},(_,i)=><path key={`h${i}`} d={`M${x} ${y+(i+1)*scale}h${w}`} className="diagram-line faint"/>)}<text x="180" y={y+h+27} textAnchor="middle">{length} m</text><text x={x-12} y="130" textAnchor="end">{width} m</text><text x="180" y="131" textAnchor="middle" className="diagram-large">{length*width} m²</text></Diagram>;
+}

@@ -1,0 +1,53 @@
+{
+  "id": 16,
+  "title": "Area & perimeter at home",
+  "sentences": [
+    "Area & perimeter at home",
+    "Area measures the surface to cover; perimeter measures the boundary to surround.",
+    "A flooring project needs square units, while fencing needs length units.",
+    "Subtract gate widths from a fence boundary.",
+    "A waste allowance increases the flooring area by a stated percentage.",
+    "Let’s work it out",
+    "A 5 m by 4 m room needs flooring with a 10% allowance.",
+    "How much should you plan for?",
+    "A = 5 × 4 = 20 m².",
+    "10% = 0.10.",
+    "The multiplier is 1 + 0.10 = 1.10.",
+    "20 × 1.10 = 22 m².",
+    "Round purchases up to whole packs if required."
+  ],
+  "spoken": [
+    "Area & perimeter at home.",
+    "Area measures the surface to cover; perimeter measures the boundary to surround.",
+    "A flooring project needs square units, while fencing needs length units.",
+    "Subtract gate widths from a fence boundary.",
+    "A waste allowance increases the flooring area by a stated percentage.",
+    "Let’s work it out.",
+    "A 5 meters by 4 meters room needs flooring with a 10% allowance.",
+    "How much should you plan for?",
+    "A equals 5 times 4 equals 20 square meters.",
+    "10% equals 0.10.",
+    "The multiplier is 1 plus 0.10 equals 1.10.",
+    "20 times 1.10 equals 22 square meters.",
+    "Round purchases up to whole packs if required."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-16.wav",
+  "durations": [
+    2.2666666666666666,
+    5.866666666666666,
+    5.066666666666666,
+    3.191666666666667,
+    5.616666666666666,
+    2.0416666666666665,
+    5.716666666666667,
+    2.2416666666666667,
+    4.366666666666666,
+    3.1166666666666667,
+    5.766666666666667,
+    5.816666666666666,
+    3.941666666666667
+  ],
+  "pause": 0.32,
+  "sourceHash": "e40b45fa4fe704850128316b32b628f5c781aea8201cd1fa8530e32b6985ead9"
+}

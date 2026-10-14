@@ -1,0 +1,47 @@
+{
+  "id": 3,
+  "title": "Surface area: every face counts",
+  "sentences": [
+    "Surface area: every face counts",
+    "Surface area adds the areas of a solid's exposed surfaces.",
+    "A net unfolds a solid into flat shapes you can measure.",
+    "Total surface area includes bases; curved or lateral area excludes them.",
+    "Where two solids touch, their joined faces are hidden and should not be counted as exposed surface.",
+    "Let’s work it out",
+    "Find the surface area of a box 3 cm long, 2 cm wide, and 4 cm high.",
+    "lw = 6 cm², lh = 12 cm², and wh = 8 cm².",
+    "The box has two of each face, so SA = 2(6 + 12 + 8).",
+    "SA = 52 cm².",
+    "Use square units because this measures the outside surface."
+  ],
+  "spoken": [
+    "Surface area: every face counts.",
+    "Surface area adds the areas of a solid's exposed surfaces.",
+    "A net unfolds a solid into flat shapes you can measure.",
+    "Total surface area includes bases; curved or lateral area excludes them.",
+    "Where two solids touch, their joined faces are hidden and should not be counted as exposed surface.",
+    "Let’s work it out.",
+    "Find the surface area of a box 3 centimeters long, 2 centimeters wide, and 4 centimeters high.",
+    "lw equals 6 square centimeters, lh equals 12 square centimeters, and wh equals 8 square centimeters.",
+    "The box has two of each face, so SA equals 2(6 plus 12 plus 8).",
+    "SA equals 52 square centimeters.",
+    "Use square units because this measures the outside surface."
+  ],
+  "voice": "Luna",
+  "audio": "/audio/lessons/lesson-3.wav",
+  "durations": [
+    2.816666666666667,
+    5.291666666666667,
+    4.641666666666667,
+    5.716666666666667,
+    7.066666666666666,
+    2.0416666666666665,
+    7.316666666666666,
+    8.841666666666667,
+    6.366666666666666,
+    3.8916666666666666,
+    4.441666666666666
+  ],
+  "pause": 0.32,
+  "sourceHash": "2b0ecae916f6dbd54376f012bfd5768c8254e06ff9d48ac8c51ffd97e4b82db7"
+}
