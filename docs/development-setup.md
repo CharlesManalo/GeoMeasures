@@ -23,13 +23,13 @@ The lesson WAV files and timing metadata are already committed under `public/aud
 
 ## Publish with GitHub and Vercel
 
-The main source is version-controlled in [CharlesManalo/GeoMeasures](https://github.com/CharlesManalo/GeoMeasures), on the `main` branch. Use this sequence for the first deployment:
+The main source is version-controlled in [CharlesManalo/GeoMeasures](https://github.com/CharlesManalo/GeoMeasures), on the `main` branch. A Vercel project named `geo-measure` has already been created and connected to that GitHub repository. Use this sequence to finish its first deployment:
 
 1. Sign in to [Vercel](https://vercel.com/) using the account that should own the website.
-2. Select **Add New...** → **Project**, then connect GitHub if prompted and authorize access to `CharlesManalo/GeoMeasures`.
-3. Import the `GeoMeasures` repository. Keep the repository root as the project root and let Vercel detect **Next.js**.
-4. Keep the default build command (`npm run build`) and output settings. No environment variables, TTS service, Python runtime, or voice model are required.
-5. Select **Deploy**. When deployment finishes, Vercel provides the production website URL.
+2. Open the `geo-measure` project and select **Settings** → **Build and Deployment**.
+3. Set **Framework Preset** to **Next.js** (do not leave it as Other), and keep **Root Directory** set to `./`.
+4. Keep the default Next.js build and output settings. No environment variables, TTS service, Python runtime, or voice model are required.
+5. Return to **Deployments**, redeploy the latest deployment from the `main` branch, and wait for the build to finish. The current initial deployment used the wrong framework preset and returns 404 until it is corrected and redeployed.
 
 For later updates, edit the source, check it locally, then commit and push to `main`:
 
@@ -42,7 +42,7 @@ git commit -m "Describe the change"
 git push origin main
 ```
 
-Vercel automatically builds and deploys new commits pushed to the connected production branch. Pull requests can be connected to Vercel for preview deployments before merging.
+The GitHub repository is already connected to this Vercel project. Once the framework preset is corrected, Vercel automatically builds and deploys new commits pushed to `main`. Pull requests can be connected to Vercel for preview deployments before merging.
 
 Alternatively, after installing and authenticating the Vercel CLI, run `npx vercel link` once in the source root and `npx vercel --prod` to deploy from the command line. Do not commit Vercel credentials or local `.vercel` settings.
 
